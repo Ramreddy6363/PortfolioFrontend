@@ -78,6 +78,7 @@ To customize the portfolio:
 2. Add your projects in `src/components/Projects.jsx`
 3. Modify colors and styles in the CSS files
 4. Replace the contact links in `src/components/Contact.jsx`
+   - **Important**: Update the placeholder email `contact@example.com` with your actual email address
 
 ## Deployment
 
